@@ -117,6 +117,7 @@ The table below shows the full list of languages (and corresponding classes/alia
 | Jolie                   | jolie, iol, ol         | [highlightjs-jolie](https://github.com/xiroV/highlightjs-jolie) |
 | Julia                   | julia, jl               |         |   
 | Julia REPL              | julia-repl             |         |
+| Justfile                | justfile, just         | [highlightjs-justfile|https://github.com/gsemet/highlightjs-justfile) |
 | Kotlin                  | kotlin, kt             |         |
 | Lang                    |                        | [highlightjs-lang](https://github.com/highlightjs/highlightjs-lang)
 | LaTeX                   | tex                    |         |
